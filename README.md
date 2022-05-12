@@ -38,6 +38,19 @@ The distance formula along with an example can be found below.
 
 <img src="https://cdn.tutors.com/assets/images/courses/math/geometry-help/tutors-how-to-use-the-distance-formula.jpg" width="400px"/>
 
+
+Remember, squaring a number or an expression just means to multiply that number or expression by itself.  We can use the following syntax operations to square the number 5.
+
+```
+let a = 5;
+let aSquared = a*a;
+
+let b = 5;
+let bSquared = b**2;
+
+//both aSquared and bSquared will result to 25
+```
+
 ## Bonus
 
 #### `quadratic.js`
